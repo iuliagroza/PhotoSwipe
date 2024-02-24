@@ -4,7 +4,7 @@
 [![devDependency Status](https://david-dm.org/dimsemenov/PhotoSwipe/dev-status.svg)](https://david-dm.org/dimsemenov/PhotoSwipe#info=devDependencies)
 [![Flattr](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/3698358/dimsemenovPhotoSwipe-on-GitHub)
 
-JavaScript image gallery for mobile and desktop. 
+JavaScript image gallery for mobile and desktop.
 
 - [Documentation and getting started guide](http://photoswipe.com/documentation/getting-started.html).
 - [Demo and script home page](http://photoswipe.com).
